@@ -1,0 +1,16 @@
+h1{
+    font-family: sans-serif;
+}
+h2{
+    font-family: cursive;
+}
+#color2:hover{
+    background-color: rgb(88, 86, 86);
+}
+
+h1:hover{
+     background-color: rgb(181, 194, 168);
+}
+h2:hover{
+    background-color: rgb(181, 194, 168);
+}
